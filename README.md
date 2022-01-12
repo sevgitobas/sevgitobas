@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2 align="center"><img src="https://qph.fs.quoracdn.net/main-qimg-1783a7f5f8c8332ce33aac23d649e942-lq" /h2>
 <h3 align="center">A passionate data scientist and backend developer from Turkey</h3>
 
-<p align="left"> < alt="sevgitobas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sevgitobas&label=Profile%20views&color=0e75b6&style=flat" alt="sevgitobas" /> </p>
 
 - 🔭 I’m currently working on **Python, SQL**
 - 🌱 I’m currently learning **.NET Core, Java, JavaScript**
